@@ -1,2 +1,5 @@
-./Alarm_Clock.pdf
-./functions_si_proiect.zip
+/.DS_Store
+/__pycache__/
+*.py[cod]
+/Alarm_Clock.pdf
+/functions_si_proiect.zip
